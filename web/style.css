@@ -1,0 +1,28 @@
+h2{
+    text-align: right;
+    color: red;
+    font-size: 40;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    color: pink;
+    font-style: italic;
+    font-size: 50;
+    border:pink;
+    border-color:orange;
+    background-color:orchid;
+}
+
+
+form{
+    align: center;
+    text-align: center;
+    border:solid ;
+    border-color:yellowgreen;
+    background-color:coral;
+    font-size: 18;
+    font-style: oblique;
+    float:inherit;
+   
+}
